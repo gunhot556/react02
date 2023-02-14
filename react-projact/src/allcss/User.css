@@ -1,0 +1,72 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Josefin sans';
+    font-weight: lighter;
+}
+.img1{
+    padding: 10px;
+}
+.card1{
+    background-color: rgb(113, 113, 113);
+    height: 150px;
+    position: relative;
+    font-family: 'Josefin sans';
+    font-weight: lighter;
+}
+.img2{
+    position: relative;
+    transform: translate(200px, 25px);
+}
+.name h2{
+    position: relative;
+    transform: translate(320px, -100px);
+    font-size: 25px;
+    font-family: 'Josefin sans';
+    font-weight: lighter;
+    font-size: 30px;
+}
+.button1{
+    position: relative;
+    transform: translate(320px, -90px);
+}
+#btn-edit{
+    background-color: rgb(17, 166, 240);
+    border: rgb(17, 166, 240);
+    border-radius: 5px;
+    height: 30px;
+    width: 160px;
+    font-size: 15px;
+}
+.fallowers1{
+    position: relative;
+    transform: translate(60vw, -25px);
+    font-size: 20px;
+}
+.fallowers2{
+    position: relative;
+    transform: translate(52vw, -45px);
+    font-size: 20px;
+}
+#btn-models{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(243, 243, 243);
+    background-color: rgb(17, 166, 240);
+    border-radius: 5px;
+    height: 45px;
+    width: 120px;
+    font-size: 20px;
+    transform: translate(200px, 20px);
+    
+}
+.likes{
+    position: relative;
+    transform: translate(400px, -12px);
+    font-size: 20px;
+}
+.button2{
+    margin-left: 30em;
+    margin-top: 2em;
+}
